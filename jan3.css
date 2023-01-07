@@ -1,0 +1,36 @@
+.firstline{
+	background-image: url(https://as1.ftcdn.net/v2/jpg/02/94/71/82/1000_F_294718224_HUG12DhTJX2mnsBNoU0At5FebQjduwT2.jpg);
+	background-size: cover;
+	height: 50vh;	
+}
+.secondline{
+	color:ghostwhite;
+	font-weight:bold;
+	font-family: 'Roboto';
+	padding-top: 210px;
+}
+.imagehat{
+	height: 100px;
+	width: 100px;
+}
+.chrispara{
+	font-weight: bold;
+}
+.christmascard{
+	background-color: ghostwhite;
+	width:170px;
+	border-radius: 10px;
+	padding:2px;
+	height:150px;
+	text-align:center;
+	margin: 20px;
+}
+.chrisheading{
+	font-size: 15px;
+	font-family: 'Roboto'
+	font-weight: normal;
+}
+.thirdline{
+	background-color: pink;
+	height: 60ph;
+}
